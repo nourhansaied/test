@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    padding-top: 70px;
+}
+.item {
+    position: relative;
+}
+
+.item span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #09c;
+    padding: 0.5rem 1rem;
+    border-top-left-radius: 12px;
+}
